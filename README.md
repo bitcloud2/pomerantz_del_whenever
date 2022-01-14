@@ -2,7 +2,10 @@
 > Simplifying the process for creating videos from photos.
 
 
-This file will become your README and also the index of your documentation.
+This is using and building on the following sources:
+- Original Code https://github.com/vt-vl-lab/3d-photo-inpainting
+- Original Huggingface Space Code from https://huggingface.co/spaces/Epoching/3D_Photo_Inpainting/tree/main
+
 
 ## Install
 

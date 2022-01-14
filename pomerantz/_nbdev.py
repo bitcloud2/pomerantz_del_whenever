@@ -2,10 +2,12 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"say_hello": "00_core.ipynb",
-         "HelloSayer": "00_core.ipynb"}
+index = {"say_hello": "01_boostmonodepth_utils.ipynb",
+         "HelloSayer": "01_boostmonodepth_utils.ipynb"}
 
-modules = ["core.py"]
+modules = ["main.py",
+           "core.py",
+           "boostmonodepth_utils.py"]
 
 doc_url = "https://bitcloud2.github.io/pomerantz/"
 

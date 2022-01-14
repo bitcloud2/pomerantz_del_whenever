@@ -1,6 +1,12 @@
 {
   "pomerantz": {
     "Overview": "/",
-    "prototype": "core.html"
+    "main": "main.html",
+    "prototype": "og.html",
+    "boostmonodepth_utils": "boostmonodepth_utils.html",
+    "bilateral_filtering": "bilateral_filtering.html",
+    "mesh": "mesh.html",
+    "networks": "networks.html",
+    "utils": "utils.html"
   }
 }
